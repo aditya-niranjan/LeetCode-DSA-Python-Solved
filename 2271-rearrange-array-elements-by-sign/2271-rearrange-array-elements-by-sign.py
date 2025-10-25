@@ -4,21 +4,18 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-
-        positive = []
-        negative = []
-        result = []
-
-        for num in range(0,len(nums)):
-            if nums[num] > 0:
-                positive.append(nums[num])
+        n = len(nums)
+        result=[0] * n
+        pos = 0
+        neg = 1
+        for i in range(0,n):
+            if nums[i] >= 0:
+                result[pos] = nums[i]
+                pos+=2
             else:
-                negative.append(nums[num])
-        
-        for i in range(0,len(positive)):
-            result.append(positive[i])
-            result.append(negative[i])
-
+                result[neg] = nums[i]
+                neg+=2
+                
         return result
 
         
