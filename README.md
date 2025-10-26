@@ -22,6 +22,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0485-max-consecutive-ones) |
 | [0624-maximum-distance-in-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0624-maximum-distance-in-arrays) |
 | [0898-transpose-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0898-transpose-matrix) |
@@ -40,6 +41,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0128-longest-consecutive-sequence](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2331-intersection-of-multiple-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -54,6 +56,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0189-rotate-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -61,6 +64,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0088-merge-sorted-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0948-sort-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2331-intersection-of-multiple-arrays) |
 | [2765-make-array-empty](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2765-make-array-empty) |
@@ -69,6 +73,7 @@ This Repo Will  Have All The Question Which I Solved
 | ------- |
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2765-make-array-empty](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2765-make-array-empty) |
 ## Counting
 |  |
