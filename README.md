@@ -24,6 +24,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0349-intersection-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0485-max-consecutive-ones) |
 | [0624-maximum-distance-in-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0624-maximum-distance-in-arrays) |
+| [0898-transpose-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0948-sort-an-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -125,9 +126,14 @@ This Repo Will  Have All The Question Which I Solved
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
