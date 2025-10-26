@@ -30,6 +30,7 @@ This Repo Will  Have All The Question Which I Solved
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2331-intersection-of-multiple-arrays) |
 | [2765-make-array-empty](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2765-make-array-empty) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0349-intersection-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2331-intersection-of-multiple-arrays) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
 ## String
 |  |
 | ------- |
