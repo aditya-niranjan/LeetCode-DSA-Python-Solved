@@ -17,6 +17,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0001-two-sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0283-move-zeroes) |
@@ -34,6 +35,7 @@ This Repo Will  Have All The Question Which I Solved
 | ------- |
 | [0001-two-sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -122,4 +124,8 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
