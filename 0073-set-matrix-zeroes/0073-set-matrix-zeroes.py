@@ -3,49 +3,44 @@ class Solution(object):
         r = len(matrix)
         c = len(matrix[0])
 
-        first_row_zero = False
-        first_col_zero = False
+        # Flags for first row/column
+        fr = fc = False
 
-        # Check if first row has zero
-        row0 = matrix[0]
+        # Check first row
+        first_row = matrix[0]
         for j in range(c):
-            if row0[j] == 0:
-                first_row_zero = True
+            if first_row[j] == 0:
+                fr = True
                 break
 
-        # Check if first column has zero
+        # Check first column
         for i in range(r):
             if matrix[i][0] == 0:
-                first_col_zero = True
+                fc = True
                 break
 
-        # Mark rows and columns
+        # Mark zeros using first row & column
         for i in range(1, r):
             row = matrix[i]
             for j in range(1, c):
                 if row[j] == 0:
-                    matrix[i][0] = 0
-                    row0[j] = 0
+                    row[0] = 0
+                    first_row[j] = 0
 
-        # Apply zeroes using markers
+        # Zero out cells based on markers
         for i in range(1, r):
             row = matrix[i]
-            if row[0] == 0:
-                for j in range(1, c):
+            marker_i = (row[0] == 0)
+            for j in range(1, c):
+                if marker_i or first_row[j] == 0:
                     row[j] = 0
-            else:
-                for j in range(1, c):
-                    if row0[j] == 0:
-                        row[j] = 0
 
-        # Zero out first row
-        if first_row_zero:
+        # Zero first row if needed
+        if fr:
             for j in range(c):
-                row0[j] = 0
+                first_row[j] = 0
 
-        # Zero out first column
-        if first_col_zero:
+        # Zero first column if needed
+        if fc:
             for i in range(r):
                 matrix[i][0] = 0
-
-        return matrix
