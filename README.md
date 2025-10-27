@@ -15,6 +15,7 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0128-longest-consecutive-sequence) |
@@ -38,6 +39,7 @@ This Repo Will  Have All The Question Which I Solved
 | ------- |
 | [0001-two-sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0349-intersection-of-two-arrays) |
@@ -140,5 +142,6 @@ This Repo Will  Have All The Question Which I Solved
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
