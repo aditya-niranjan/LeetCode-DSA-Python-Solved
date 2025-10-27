@@ -7,34 +7,43 @@ class Solution(object):
         first_col_zero = False
 
         # Check if first row has zero
+        row0 = matrix[0]
         for j in range(c):
-            if matrix[0][j] == 0:
+            if row0[j] == 0:
                 first_row_zero = True
+                break
 
         # Check if first column has zero
         for i in range(r):
             if matrix[i][0] == 0:
                 first_col_zero = True
+                break
 
-        # Mark zeros in first row/col for the rest of matrix
+        # Mark rows and columns
         for i in range(1, r):
+            row = matrix[i]
             for j in range(1, c):
-                if matrix[i][j] == 0:
+                if row[j] == 0:
                     matrix[i][0] = 0
-                    matrix[0][j] = 0
+                    row0[j] = 0
 
-        # Set zeroes except first row & col
+        # Apply zeroes using markers
         for i in range(1, r):
-            for j in range(1, c):
-                if matrix[i][0] == 0 or matrix[0][j] == 0:
-                    matrix[i][j] = 0
+            row = matrix[i]
+            if row[0] == 0:
+                for j in range(1, c):
+                    row[j] = 0
+            else:
+                for j in range(1, c):
+                    if row0[j] == 0:
+                        row[j] = 0
 
-        # Handle first row
+        # Zero out first row
         if first_row_zero:
             for j in range(c):
-                matrix[0][j] = 0
+                row0[j] = 0
 
-        # Handle first column
+        # Zero out first column
         if first_col_zero:
             for i in range(r):
                 matrix[i][0] = 0
