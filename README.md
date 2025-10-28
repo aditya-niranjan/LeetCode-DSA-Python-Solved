@@ -36,6 +36,7 @@ This Repo Will  Have All The Question Which I Solved
 | [2331-intersection-of-multiple-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2331-intersection-of-multiple-arrays) |
 | [2765-make-array-empty](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2765-make-array-empty) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ This Repo Will  Have All The Question Which I Solved
 | ------- |
 | [0898-transpose-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0898-transpose-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Union Find
 |  |
 | ------- |
@@ -152,4 +154,8 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2481-strictly-palindromic-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
