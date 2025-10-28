@@ -15,6 +15,7 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -54,6 +55,7 @@ This Repo Will  Have All The Question Which I Solved
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0283-move-zeroes) |
