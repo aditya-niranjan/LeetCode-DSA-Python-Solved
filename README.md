@@ -17,6 +17,7 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0049-group-anagrams) |
@@ -84,6 +85,7 @@ This Repo Will  Have All The Question Which I Solved
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -95,6 +97,7 @@ This Repo Will  Have All The Question Which I Solved
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0948-sort-an-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
