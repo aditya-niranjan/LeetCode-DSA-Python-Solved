@@ -14,6 +14,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1642-water-bottles) |
 | [2481-strictly-palindromic-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2481-strictly-palindromic-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Array
 |  |
 | ------- |
@@ -143,6 +144,7 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
