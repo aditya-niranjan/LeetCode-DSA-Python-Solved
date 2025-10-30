@@ -61,6 +61,7 @@ This Repo Will  Have All The Question Which I Solved
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0049-group-anagrams) |
 ## Two Pointers
