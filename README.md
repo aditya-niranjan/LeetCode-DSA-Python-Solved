@@ -49,6 +49,7 @@ This Repo Will  Have All The Question Which I Solved
 | [2331-intersection-of-multiple-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2331-intersection-of-multiple-arrays) |
 | [2765-make-array-empty](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2765-make-array-empty) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
@@ -65,6 +66,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1392-find-the-difference-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2331-intersection-of-multiple-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -200,4 +202,8 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
