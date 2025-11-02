@@ -47,6 +47,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2331-intersection-of-multiple-arrays) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2765-make-array-empty](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2765-make-array-empty) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -174,6 +175,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0898-transpose-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Union Find
 |  |
@@ -186,6 +188,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0054-spiral-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0898-transpose-matrix) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Brainteaser
 |  |
 | ------- |
