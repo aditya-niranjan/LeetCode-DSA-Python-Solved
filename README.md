@@ -223,9 +223,14 @@ This Repo Will  Have All The Question Which I Solved
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
