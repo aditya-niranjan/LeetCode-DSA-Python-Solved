@@ -176,6 +176,7 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
@@ -183,6 +184,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -233,4 +235,8 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0206-reverse-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
