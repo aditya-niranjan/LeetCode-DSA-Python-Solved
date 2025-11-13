@@ -10,11 +10,11 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
-        temp = head
-        my_set =set()
-        while temp is not None:
-            if temp in  my_set:
+        slow =head
+        fast =head
+        while fast is not None and fast.next is not None:
+            slow = slow.next
+            fast = fast.next.next
+            if slow == fast:
                 return True
-            my_set.add(temp)
-            temp = temp.next
         return False
