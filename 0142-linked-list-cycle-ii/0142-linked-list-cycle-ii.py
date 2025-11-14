@@ -10,12 +10,16 @@ class Solution(object):
         :type head: ListNode
         :rtype: ListNode
         """
-        temp = head
-        my_set =set()
-        
-        while temp is not None and temp.next is not None:
-            if temp in my_set:
-                return temp
-            my_set.add(temp)
-            temp = temp.next
+        s = head
+        f = head
+
+        while f is not None  and f.next is not None:
+            s = s.next
+            f = f.next.next
+            if s == f:
+                s = head
+                while s != f:
+                    s = s.next
+                    f = f.next
+                return s
         return None
