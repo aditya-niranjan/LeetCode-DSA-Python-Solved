@@ -232,6 +232,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0141-linked-list-cycle](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0328-odd-even-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
