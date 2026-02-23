@@ -3,30 +3,27 @@ public:
     bool hasAllCodes(string s, int k) {
         int n = s.size();
         
-        // If string is too small to contain all 2^k substrings
-        if (n < k) return false;
-        if (n < (1 << k) + k - 1) return false;
+        // Quick impossible case check
+        if (n < k || n - k + 1 < (1 << k)) 
+            return false;
 
-        int need = 1 << k;                // total binary codes
-        vector<bool> seen(need, false);   // track visited codes
-        
+        int total = 1 << k;
+        vector<bool> seen(total, false);
+
         int mask = 0;
-        int allOnes = need - 1;           // keeps only last k bits
-        
-        for (int i = 0; i < n; i++) {
-            // shift left, keep last k bits, add current bit
-            mask = ((mask << 1) & allOnes) | (s[i] - '0');
-            
-            // start recording after first k-1 characters
-            if (i >= k - 1) {
-                if (!seen[mask]) {
-                    seen[mask] = true;
-                    need--;
-                    if (need == 0) return true;
-                }
+        int remaining = total;
+
+        for (int i = 0; i < n; ++i) {
+            // Build rolling k-bit number
+            mask = ((mask << 1) & (total - 1)) | (s[i] - '0');
+
+            if (i >= k - 1 && !seen[mask]) {
+                seen[mask] = true;
+                if (--remaining == 0)
+                    return true;   // All codes found
             }
         }
-        
+
         return false;
     }
 };
