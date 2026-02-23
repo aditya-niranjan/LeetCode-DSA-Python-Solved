@@ -2,25 +2,27 @@ class Solution {
 public:
     bool hasAllCodes(string s, int k) {
         int n = s.size();
-        
-        // Quick impossible case check
-        if (n < k || n - k + 1 < (1 << k)) 
+        int total = 1 << k;
+
+        // Impossible check
+        if (n < k || n - k + 1 < total) 
             return false;
 
-        int total = 1 << k;
-        vector<bool> seen(total, false);
+        vector<char> seen(total, 0);
 
         int mask = 0;
-        int remaining = total;
+        int needed = total;
+        int limit = total - 1;
 
         for (int i = 0; i < n; ++i) {
-            // Build rolling k-bit number
-            mask = ((mask << 1) & (total - 1)) | (s[i] - '0');
+            mask = ((mask << 1) & limit) | (s[i] & 1);
 
-            if (i >= k - 1 && !seen[mask]) {
-                seen[mask] = true;
-                if (--remaining == 0)
-                    return true;   // All codes found
+            if (i >= k - 1) {
+                if (!seen[mask]) {
+                    seen[mask] = 1;
+                    if (--needed == 0)
+                        return true;
+                }
             }
         }
 
