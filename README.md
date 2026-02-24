@@ -24,6 +24,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0015-3sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0035-search-insert-position) |
@@ -96,6 +97,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0018-4sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0142-linked-list-cycle-ii) |
