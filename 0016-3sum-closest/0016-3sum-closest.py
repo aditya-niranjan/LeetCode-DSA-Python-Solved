@@ -2,24 +2,21 @@ class Solution:
     def threeSumClosest(self, nums, target):
         nums.sort()
         n = len(nums)
-        closest_sum = nums[0] + nums[1] + nums[2]
-
+        closest = nums[0] + nums[1] + nums[2]
 
         for i in range(n - 2):
             left = i + 1
             right = n - 1
 
             while left < right:
-                current_sum = nums[i] + nums[left] + nums[right]
+                curr = nums[i] + nums[left] + nums[right]
 
-                if abs(target - current_sum) < abs(target - closest_sum):
-                    closest_sum = current_sum
+                if abs(target - curr) < abs(target - closest):
+                    closest = curr
 
-                if current_sum < target:
+                if curr < target:
                     left += 1
-                elif current_sum > target:
-                    right -= 1
                 else:
-                    return current_sum
+                    right -= 1
 
-        return closest_sum
+        return closest
