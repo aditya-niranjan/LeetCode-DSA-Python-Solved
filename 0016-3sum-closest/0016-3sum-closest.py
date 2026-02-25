@@ -4,8 +4,6 @@ class Solution:
         n = len(nums)
         closest_sum = nums[0] + nums[1] + nums[2]
 
-        if len(nums)<3:
-            return "not possible"
 
         for i in range(n - 2):
             left = i + 1
