@@ -2,8 +2,6 @@ class Solution:
     def threeSumClosest(self, nums, target):
         nums.sort()
         n = len(nums)
-        if n < 3:
-            return "not possible"
         closest_sum = nums[0] + nums[1] + nums[2]
 
 
