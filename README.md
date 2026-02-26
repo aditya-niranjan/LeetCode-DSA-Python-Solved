@@ -22,6 +22,7 @@ This Repo Will  Have All The Question Which I Solved
 | ------- |
 | [0001-two-sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0018-4sum) |
@@ -90,6 +91,7 @@ This Repo Will  Have All The Question Which I Solved
 | ------- |
 | [0006-zigzag-conversion](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0049-group-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -277,4 +279,8 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
