@@ -90,6 +90,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0006-zigzag-conversion](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0049-group-anagrams) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Two Pointers
@@ -196,6 +197,7 @@ This Repo Will  Have All The Question Which I Solved
 | ------- |
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -211,6 +213,7 @@ This Repo Will  Have All The Question Which I Solved
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0898-transpose-matrix) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
