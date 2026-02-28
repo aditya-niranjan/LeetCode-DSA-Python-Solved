@@ -6,9 +6,13 @@ class Solution(object):
         """
         MOD = 10**9 + 7
         result = 0
+        length = 0
         
         for i in range(1, n + 1):
-            bits = len(bin(i)) - 2   # number of bits in i
-            result = ((result << bits) + i) % MOD
+            # if i is power of 2
+            if (i & (i - 1)) == 0:
+                length += 1
+                
+            result = ((result << length) + i) % MOD
             
         return result
