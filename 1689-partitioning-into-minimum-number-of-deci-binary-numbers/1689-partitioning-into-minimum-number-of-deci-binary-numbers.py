@@ -4,7 +4,7 @@ class Solution(object):
         :type n: str
         :rtype: int
         """
-        numlist = list(n)
-        maxValue = max(int(x) for x in numlist)
 
-        return maxValue
+        maxValue = max(n)
+
+        return int(maxValue)
