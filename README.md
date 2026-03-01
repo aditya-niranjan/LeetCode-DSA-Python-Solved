@@ -96,6 +96,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0049-group-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0049-group-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Two Pointers
 |  |
@@ -182,6 +183,7 @@ This Repo Will  Have All The Question Which I Solved
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0624-maximum-distance-in-arrays) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2765-make-array-empty](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2765-make-array-empty) |
