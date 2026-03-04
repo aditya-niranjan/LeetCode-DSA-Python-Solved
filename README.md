@@ -56,6 +56,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -243,6 +244,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0054-spiral-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0898-transpose-matrix) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Brainteaser
 |  |
