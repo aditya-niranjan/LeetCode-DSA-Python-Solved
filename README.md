@@ -10,6 +10,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0009-palindrome-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1642-water-bottles) |
@@ -97,6 +98,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0012-integer-to-roman](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -206,6 +208,7 @@ This Repo Will  Have All The Question Which I Solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -224,6 +227,7 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0898-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1545-find-kth-bit-in-nth-binary-string) |
