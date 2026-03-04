@@ -150,6 +150,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0792-binary-search) |
@@ -302,4 +303,8 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0014-longest-common-prefix) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
