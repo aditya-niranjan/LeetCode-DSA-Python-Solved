@@ -107,6 +107,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
