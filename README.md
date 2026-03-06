@@ -25,6 +25,7 @@ This Repo Will  Have All The Question Which I Solved
 | ------- |
 | [0001-two-sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0016-3sum-closest) |
@@ -115,6 +116,7 @@ This Repo Will  Have All The Question Which I Solved
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0018-4sum) |
@@ -197,6 +199,7 @@ This Repo Will  Have All The Question Which I Solved
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0624-maximum-distance-in-arrays) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
