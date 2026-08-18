@@ -75,6 +75,7 @@ This Repo Will  Have All The Question Which I Solved
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2765-make-array-empty](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2765-make-array-empty) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -101,6 +102,7 @@ This Repo Will  Have All The Question Which I Solved
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2331-intersection-of-multiple-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
