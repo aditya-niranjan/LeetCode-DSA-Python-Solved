@@ -75,6 +75,7 @@ This Repo Will  Have All The Question Which I Solved
 | [2331-intersection-of-multiple-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2331-intersection-of-multiple-arrays) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2765-make-array-empty](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2765-make-array-empty) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -270,6 +271,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Union Find
 |  |
