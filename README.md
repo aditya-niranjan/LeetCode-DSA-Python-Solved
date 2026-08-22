@@ -22,6 +22,7 @@ This Repo Will  Have All The Question Which I Solved
 | [2481-strictly-palindromic-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2481-strictly-palindromic-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
