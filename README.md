@@ -90,6 +90,7 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0036-valid-sudoku) |
@@ -116,6 +117,7 @@ This Repo Will  Have All The Question Which I Solved
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0013-roman-to-integer) |
@@ -324,6 +326,7 @@ This Repo Will  Have All The Question Which I Solved
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Recursion
