@@ -17,6 +17,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1872-stone-game-viii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2029-stone-game-ix) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -72,6 +73,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1701-average-waiting-time](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1701-average-waiting-time) |
+| [1872-stone-game-viii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1872-stone-game-viii) |
 | [1980-find-unique-binary-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2029-stone-game-ix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -268,6 +270,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1872-stone-game-viii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Simulation
@@ -306,6 +309,7 @@ This Repo Will  Have All The Question Which I Solved
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1872-stone-game-viii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Stack
@@ -363,10 +367,12 @@ This Repo Will  Have All The Question Which I Solved
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -376,6 +382,7 @@ This Repo Will  Have All The Question Which I Solved
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
