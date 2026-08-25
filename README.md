@@ -392,4 +392,8 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
