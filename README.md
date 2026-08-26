@@ -138,6 +138,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1927-sum-game](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1980-find-unique-binary-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -334,6 +335,7 @@ This Repo Will  Have All The Question Which I Solved
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Recursion
 |  |
