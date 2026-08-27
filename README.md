@@ -117,6 +117,7 @@ This Repo Will  Have All The Question Which I Solved
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -139,6 +140,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1980-find-unique-binary-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1980-find-unique-binary-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +199,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2029-stone-game-ix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2029-stone-game-ix) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2331-intersection-of-multiple-arrays) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,6 +240,7 @@ This Repo Will  Have All The Question Which I Solved
 | [2029-stone-game-ix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2029-stone-game-ix) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2765-make-array-empty](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2765-make-array-empty) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -398,4 +402,8 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0175-combine-two-tables) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
