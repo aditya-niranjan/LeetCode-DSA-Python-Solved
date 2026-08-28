@@ -141,6 +141,7 @@ This Repo Will  Have All The Question Which I Solved
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2481-strictly-palindromic-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2481-strictly-palindromic-number) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -406,4 +408,5 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
