@@ -76,6 +76,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1872-stone-game-viii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1872-stone-game-viii) |
 | [1980-find-unique-binary-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2331-intersection-of-multiple-arrays) |
@@ -242,6 +243,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1927-sum-game](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2765-make-array-empty](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2765-make-array-empty) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
