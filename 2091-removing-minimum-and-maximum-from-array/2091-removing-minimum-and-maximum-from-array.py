@@ -2,11 +2,11 @@ class Solution:
     def minimumDeletions(self, nums):
         n = len(nums)
 
-        mini = nums.index(min(nums))
-        maxi = nums.index(max(nums))
+        mini = nums.index(min(nums)) # 1
+        maxi = nums.index(max(nums)) # 5
 
-        left = min(mini, maxi)
-        right = max(mini, maxi)
+        left = min(mini, maxi) # 1
+        right = max(mini, maxi) # 5
 
         # 1. Remove both from the left
         option1 = right + 1
