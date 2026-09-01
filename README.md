@@ -88,6 +88,7 @@ This Repo Will  Have All The Question Which I Solved
 | [3206-find-common-elements-between-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -117,6 +118,7 @@ This Repo Will  Have All The Question Which I Solved
 | [3206-find-common-elements-between-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -273,6 +275,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
@@ -313,6 +316,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0898-transpose-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0898-transpose-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Brainteaser
 |  |
 | ------- |
@@ -418,4 +422,8 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
