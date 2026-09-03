@@ -28,6 +28,7 @@ This Repo Will  Have All The Question Which I Solved
 | [3676-smallest-number-with-all-set-bits](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
 |  |
 | ------- |
@@ -94,6 +95,7 @@ This Repo Will  Have All The Question Which I Solved
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
