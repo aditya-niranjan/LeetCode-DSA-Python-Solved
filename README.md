@@ -97,6 +97,7 @@ This Repo Will  Have All The Question Which I Solved
 | [3875-construct-uniform-parity-array-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -333,6 +334,7 @@ This Repo Will  Have All The Question Which I Solved
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
 | ------- |
