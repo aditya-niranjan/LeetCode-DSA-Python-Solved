@@ -138,6 +138,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0014-longest-common-prefix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0115-distinct-subsequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -286,6 +287,7 @@ This Repo Will  Have All The Question Which I Solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
