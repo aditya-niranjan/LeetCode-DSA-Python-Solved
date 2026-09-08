@@ -140,6 +140,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0014-longest-common-prefix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0940-distinct-subsequences-ii) |
