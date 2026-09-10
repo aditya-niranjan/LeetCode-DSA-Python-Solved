@@ -122,6 +122,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1980-find-unique-binary-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2331-intersection-of-multiple-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -155,6 +156,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1927-sum-game](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1980-find-unique-binary-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -217,6 +219,7 @@ This Repo Will  Have All The Question Which I Solved
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2029-stone-game-ix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2029-stone-game-ix) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2331-intersection-of-multiple-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2331-intersection-of-multiple-arrays) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
