@@ -142,6 +142,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0013-roman-to-integer](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0067-add-binary) |
@@ -351,6 +352,7 @@ This Repo Will  Have All The Question Which I Solved
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0020-valid-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
@@ -450,4 +452,8 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
