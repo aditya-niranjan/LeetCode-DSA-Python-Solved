@@ -160,6 +160,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1980-find-unique-binary-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1980-find-unique-binary-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -181,6 +182,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0349-intersection-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2481-strictly-palindromic-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2481-strictly-palindromic-number) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
@@ -265,6 +267,7 @@ This Repo Will  Have All The Question Which I Solved
 | [2029-stone-game-ix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2765-make-array-empty](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2765-make-array-empty) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Indexed Tree
@@ -306,6 +309,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1872-stone-game-viii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Simulation
 |  |
