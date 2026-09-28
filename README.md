@@ -155,6 +155,7 @@ This Repo Will  Have All The Question Which I Solved
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -367,6 +368,7 @@ This Repo Will  Have All The Question Which I Solved
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0735-asteroid-collision) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
@@ -470,6 +472,7 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
 |  |
 | ------- |
