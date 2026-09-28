@@ -64,6 +64,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0624-maximum-distance-in-arrays) |
 | [0735-asteroid-collision](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0792-binary-search) |
@@ -119,6 +120,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0268-missing-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -354,6 +356,7 @@ This Repo Will  Have All The Question Which I Solved
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [1872-stone-game-viii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1872-stone-game-viii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3616-make-array-elements-equal-to-zero) |
