@@ -68,6 +68,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0624-maximum-distance-in-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0624-maximum-distance-in-arrays) |
 | [0735-asteroid-collision](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0792-binary-search) |
+| [0860-lemonade-change](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0860-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0948-sort-an-array) |
@@ -267,6 +268,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0011-container-with-most-water](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0624-maximum-distance-in-arrays) |
+| [0860-lemonade-change](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
