@@ -46,6 +46,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0054-spiral-matrix) |
@@ -267,6 +268,7 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0455-assign-cookies) |
 | [0624-maximum-distance-in-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0624-maximum-distance-in-arrays) |
 | [0860-lemonade-change](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0860-lemonade-change) |
@@ -312,6 +314,7 @@ This Repo Will  Have All The Question Which I Solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0045-jump-game-ii) |
 | [0115-distinct-subsequences](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0940-distinct-subsequences-ii) |
