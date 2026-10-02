@@ -375,6 +375,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0020-valid-parentheses](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0735-asteroid-collision) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -492,14 +493,17 @@ This Repo Will  Have All The Question Which I Solved
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
