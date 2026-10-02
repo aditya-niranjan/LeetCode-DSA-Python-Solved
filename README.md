@@ -373,6 +373,7 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0735-asteroid-collision](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0735-asteroid-collision) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -485,4 +486,16 @@ This Repo Will  Have All The Question Which I Solved
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0455-assign-cookies) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
