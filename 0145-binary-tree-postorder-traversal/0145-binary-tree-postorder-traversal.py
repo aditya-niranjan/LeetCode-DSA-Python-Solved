@@ -16,11 +16,11 @@ class Solution(object):
             if node  == None:
                 return
 
-            preorder(node.left)
-            preorder(node.right)
             ans.append(node.val)
+            preorder(node.right)
+            preorder(node.left)
 
 
         preorder(root)
-
-        return ans            
+        
+        return ans[::-1]
