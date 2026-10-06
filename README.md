@@ -154,6 +154,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0067-add-binary](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -274,6 +275,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0624-maximum-distance-in-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -381,6 +383,7 @@ This Repo Will  Have All The Question Which I Solved
 | [0145-binary-tree-postorder-traversal](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0735-asteroid-collision) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -488,6 +491,7 @@ This Repo Will  Have All The Question Which I Solved
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
