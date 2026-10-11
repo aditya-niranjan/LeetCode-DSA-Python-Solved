@@ -90,6 +90,7 @@ This Repo Will  Have All The Question Which I Solved
 | [2331-intersection-of-multiple-arrays](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2331-intersection-of-multiple-arrays) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2765-make-array-empty](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2765-make-array-empty) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -479,6 +480,7 @@ This Repo Will  Have All The Question Which I Solved
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/aditya-niranjan/LeetCode-DSA-Python-Solved/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
